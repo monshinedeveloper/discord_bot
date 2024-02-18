@@ -19,7 +19,11 @@ Clone the Repository with:
 ```bash
 git clone https://github.com/monshinedeveloper/discord_bot
 ```
-Have you Clone the Repository start the Shell with:
+Have you Clone the Repository gebe the Shell rights:
+```bash
+chmod +x discord.sh
+```
+Start the Script
 ```bash
 ./discord.sh
 ```
